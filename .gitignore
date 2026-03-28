@@ -1,0 +1,7 @@
+venv/
+**/venv/
+venv_diet/
+**/venv_diet/
+node_modules/
+__pycache__/
+.env
